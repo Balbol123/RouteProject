@@ -1,0 +1,4 @@
+﻿  RouteProject.cpp
+D:\VS IDE projects\RouteProject\RouteProject\RouteProject.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\VS IDE projects\RouteProject\RouteProject\RouteProject.cpp(9,14): warning C4101: 'co': unreferenced local variable
+  RouteProject.vcxproj -> D:\VS IDE projects\RouteProject\x64\Debug\RouteProject.exe
